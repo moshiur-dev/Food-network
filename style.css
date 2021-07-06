@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+.diet-area{
+    width:90%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.halfwidth{
+    width:50%;
+}
+.flex{
+    display: flex;
+}
+.halfwidth img{
+    width:100%
+}
+.color{
+    color:#FBA24F
+}
+.one h1{
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+.one p{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 50px;
+}
+.btn{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    color:#fff;
+    background-image: linear-gradient(#FC8F49,#FC8F40 );
+    padding: 10px 20px;
+    border-radius: 5px;
+
+}
+.about{
+    padding: 50px
+}
+.about-area img{
+    width: 100%;
+    height: auto;
+}
+.about h1{
+    font-size: 60px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-top: 400px;
+    margin-bottom: 50px;
+    color:#000
+}
+.about p{
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 100px;
+    line-height: 32px;
+}
+.about-area{
+    background-image: url("img/shapes/Frame 57.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.width-33{
+    width: 33.33%;
+}
+.width-33 img{
+    width: 100%;
+}
+.recipes h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color:#000;
+    margin-top: 100px;
+}
+.recipes p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 100px;
+    line-height: 25px;
+}
+.recipes-box{
+    background:#fff;
+    padding: 20px;
+    border-radius: 20px;
+    margin:  15px;
+    
+}
+.recipes-box h1{
+    text-align: left;
+}
+.recipes-box p{
+    text-align: left;
+}
+
+.recipes{
+    background-color: #ecf0f1;
+    overflow: hidden;
+    
+}
+.titian{
+    margin-bottom: 100px;
+}
+
+.details-countdown{
+    padding: 100px;
+    background:#fff;
+    border-radius: 50px;
+    margin: 0px 20px;
+}
+.countdown-area{
+    background:#ecf0f1;
+    overflow: hidden;
+    padding-bottom: 100px;
+}
+.center{
+    text-align: center;
+}
+.counter-box h1{
+    font-size: 64px;
+    font-weight: 700;
+    margin: 0;
+}
+.counter-box p{
+    font-size: 26px;
+    font-weight: 400;
+}
+.fcolor{
+    color:#FBA24F
+}
+.footer-area{
+    background: #000;
+    padding: 50px 150px 200px 150px;
+}
+.footer-area h1{
+    color:#5B5B5B;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.footer-area p{
+    color:#fff;
+    font-size: 16px;
+}
